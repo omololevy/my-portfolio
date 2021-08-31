@@ -5,10 +5,6 @@ body{
 
 }
 
-ul{
- 
-}
-
 a{
   text-decoration: none;
 
@@ -39,7 +35,7 @@ section{
 img {
   display: block;
   width: 150px;
-  max-width: 100%;
+  
 }
 
 .levi{
