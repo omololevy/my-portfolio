@@ -1,22 +1,18 @@
 # My Portfolio
 #### My Projects and Career line, 27th August 2021
-#### By **Levy Omolo and Ken Githaiga**
+#### By **Levy Omolo**
 ## Description
 This page displays most of my projects that I have succesfully worked on to success with others underway. It also touches on my career line i.e. my career paths and goals. It has not left behind my experience, Interest and hobbies.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Install a text-editor preferably VScode for writing the HTML, CSS, and a README document.
-Ensure you have an up-to-date terminal for writing CLIs and navigating the directories and adding commiting and pushing the files and progress so far to the git and GitHub}
+
+Install a text-editor preferably VScode for writing the HTML, CSS, and a README document.
+Ensure you have an up-to-date terminal for writing CLIs and navigating the directories and adding commiting and pushing the files and progress so far to the git and GitHub
 ## Known Bugs
-{responsive page implementation is a little problematic }
+responsive page implementation is a little problematic 
 ## Technologies Used
-{ HTML and CSS have been heavily used in this project.}
+ HTML and CSS have been heavily used in this project.
 ## Support and contact details
-{Incase of assistance, email me: machlevi2021@mail.com, @omololevy, levy.omolo@student.moringaschool.com}
+Incase of assistance, email me: machlevi2021@mail.com, @omololevy, levy.omolo@student.moringaschool.com
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
